@@ -38,7 +38,7 @@
   </a>
 </div>
 <div align="right">
-  <a href="https://wakatime.com/@07e31978-556d-439c-b78b-2c9785f0482d"><img src="https://wakatime.com/badge/user/07e31978-556d-439c-b78b-2c9785f0482d.svg" alt="Total time coded since Oct 8 2024" /></a>
+  <a href="https://wakatime.com/@07e31978-556d-439c-b78b-2c9785f0482d"><img src="https://wakatime.com/badge/user/@Ichillow" alt="Total time coded since Oct 8 2024" /></a>
   
 </div>
 
