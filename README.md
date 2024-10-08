@@ -37,10 +37,6 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
-<div align="right">
-  <a href="https://wakatime.com/@07e31978-556d-439c-b78b-2c9785f0482d"><img src="https://wakatime.com/badge/user/@Ichillow" alt="Total time coded since Oct 8 2024" /></a>
-  
-</div>
 
 ###
 
