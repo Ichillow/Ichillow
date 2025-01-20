@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img height="175" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fjinx-dance-gifs&psig=AOvVaw23A0rrqcR-7UGcGqvIfZaG&ust=1737468024558000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNjKu_W6hIsDFQAAAAAdAAAAABA-"  />
+  <img height="175" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fjinx&psig=AOvVaw2NWhjejpneKT8Rx1JU2BHX&ust=1737469144660000&source=images&opi=89978449"  />
 </div>
 
 ###
