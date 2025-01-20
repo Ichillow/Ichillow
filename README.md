@@ -71,14 +71,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Ichillow/Ichillow/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ichillow.Ichillow&left_text=Visitors"  />
+  <img src="https://profile-counter.glitch.me/Ichillow/count.svg?"  />
 </div>
 
 ###
