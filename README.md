@@ -2,10 +2,19 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ichillow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ichillow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<h3 align="center">🚀 About Me</h3>
+
+###
+
+<p align="left">I am a first-year BUT Informatique student passionate about game development.</p>
+
+###
+
+<h3 align="center">🎮 What I Do</h3>
+
+###
+
+<p align="left">🔨 Learning Godot Engine and GameMaker Studio to create 2D/3D games.</p>
 
 ###
 
