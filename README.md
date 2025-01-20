@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img height="175" src="https://media.tenor.com/JEHV-pC3UHgAAAAM/jinx-the-best.gif"  />
+  <img height="175" src="https://media1.tenor.com/m/cc_cEhO3sC8AAAAd/jinx-dance.gif"  />
 </div>
 
 ###
