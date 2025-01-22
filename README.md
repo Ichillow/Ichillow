@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I am a first-year BUT Informatique student passionate about game development.</p>
+<p align="center">I am a first-year BUT Informatique student passionate about game development.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">🔨 Learning Godot Engine and GameMaker Studio to create 2D/3D games.</p>
+<p align="center">🔨 Learning Godot Engine and GameMaker Studio to create 2D/3D games.</p>
 
 ###
 
