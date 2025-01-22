@@ -75,7 +75,7 @@
 ###
 
 <div align="center">
-  <img height="175" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fjinx&psig=AOvVaw2NWhjejpneKT8Rx1JU2BHX&ust=1737469144660000&source=images&opi=89978449"  />
+  <img height="175" src="https://media.tenor.com/oQYdl6glqIsAAAAM/jinx-jinx-arcane.gif"  />
 </div>
 
 ###
