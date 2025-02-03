@@ -43,6 +43,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" alt="mysql logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="45" alt="bash logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
+  <img width="10" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
 </div>
 
 ###
@@ -57,6 +61,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" alt="godot logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=gamemakerstudio" height="45" alt="gamemakerstudio logo"  />
+  <img width="10" />
+  <img src="https://skillicons.dev/icons?i=eclipse" height="45" alt="eclipseide logo"  />
 </div>
 
 
