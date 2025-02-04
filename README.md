@@ -82,6 +82,9 @@
   <a href="https://www.linkedin.com/in/lo%C3%AFs-maytraud-675964331/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="45" alt="linkedin logo"  />
   </a>
+  <a href="https://ichillow.itch.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/Ichillow/logo-itch.io/5d0b82f75201773a0781a14cc9071cd1f403fddc/press-kit-2019.01.02/logos/app-icon.svg" width="45" height="45" alt="itch.io logo"  />
+  </a>
 </div>
 
 ###
