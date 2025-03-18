@@ -21,7 +21,15 @@
 
 ###
 
-<p align="center">🔨 Learning Godot Engine and GameMaker Studio to create 2D/3D games.</p>
+<p align="center">🔨 Learning Godot Engine to create 2D/3D games.</p>
+
+###
+
+<h3 align="center"> 🛠️ Ongoing Projects</h3>
+
+###
+
+<p align="center"> 🏰 KnightPass : A game where a knight collects coins to progress (Prototype stage)</p>
 
 ###
 
