@@ -30,7 +30,7 @@
 ###
 
 <p align="center"> 🏰 KnightPass : A game where a knight collects coins to progress (Prototype stage) //On Hold</p>
-<p align="center"> 🐑 Flappy Sheep : A flappy bird like to create a small project to get familiar with Godot //WIP</p>
+<p align="center"> 🐑 Flappy Sheep : A Flappy Bird like to create a small project to get familiar with Godot //WIP</p>
 
 ###
 
