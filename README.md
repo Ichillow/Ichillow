@@ -56,6 +56,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="45" alt="c logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="java logo"  />
+  <img width="10" />
+  <img src="https://github.com/Ichillow/LogoForReadMe/blob/main/gdscript.png?raw=true" height="45" alt="gdscript logo"  />
+
+
 </div>
 
 ###
