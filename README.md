@@ -9,7 +9,7 @@
 
 ###
 
-<h3 align="center">🚀 About Me</h3>
+<h3 align="center">About Me</h3>
 
 ###
 
@@ -17,20 +17,20 @@
 
 ###
 
-<h3 align="center">🎮 What I Do</h3>
+<h3 align="center">What I Do</h3>
 
 ###
 
-<p align="center">🔨 Learning Godot Engine to create 2D/3D games.</p>
+<p align="center">I make video games. Check them out <a href=https://ichillow.itch.io>here</a> </p>
 
 ###
 
-<h3 align="center"> 🛠️ Ongoing Projects</h3>
+<h3 align="center">Ongoing Projects</h3>
 
 ###
 
-<p align="center"> 🏰 KnightPass : A game where a knight collects coins to progress (Prototype stage) //On Hold</p>
 <p align="center"> 🐑 Flappy Sheep : A Flappy Bird like to create a small project to get familiar with Godot //WIP</p>
+<p align="center"> ⚡ PowerDrill : A little game made fot the Kenney game jam 2025 //WIP</p>
 
 ###
 
@@ -104,12 +104,6 @@
 
 <div align="center">
   <img height="175" src="https://media.tenor.com/oQYdl6glqIsAAAAM/jinx-jinx-arcane.gif"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Ichillow/count.svg?"  />
 </div>
 
 ###
