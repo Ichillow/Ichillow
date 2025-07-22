@@ -30,7 +30,6 @@
 
 ###
 
-<p align="center"> 🐑 Flappy Sheep : A Flappy Bird like to create a small project to get familiar with Godot //WIP</p>
 <p align="center"> ⚡ PowerDrill : A little game made fot the Kenney game jam 2025 //WIP</p>
 
 ###
