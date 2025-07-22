@@ -30,7 +30,7 @@
 
 ###
 
-<p align="center"> ⚡ PowerDrill : A little game made fot the Kenney game jam 2025 //WIP</p>
+<p align="center"> ⚡ PowerDrill : A little game made fot the Kenney game jam 2025. <a href="https://ichillow.itch.io/powerdrill">Give it a try!</a></p>
 
 ###
 
