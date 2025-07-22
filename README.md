@@ -21,7 +21,8 @@
 
 ###
 
-<p align="center">I make video games. Check them out <a href=https://ichillow.itch.io>here</a> </p>
+<p align="center">I make video games. Check them out <a href="https://ichillow.itch.io"><b><u>here</u></b></a>.</p>
+
 
 ###
 
