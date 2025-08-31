@@ -13,7 +13,7 @@
 
 ###
 
-<p align="center">I am a first-year BUT Informatique student passionate about game development.</p>
+<p align="center">I am a second-year BUT Informatique student passionate about game development.</p>
 
 ###
 
