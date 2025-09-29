@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Ichillow and I'm a student, from IUT of Limoges</h2>
+<h2 align="center">Hi 👋! I'm Ichillow and I'm a student, from IUT of Limoges</h2>
 
 ###
 
@@ -32,6 +32,7 @@
 ###
 
 <p align="center"> PowerDrill : A little game made fot the Kenney game jam 2025. <a href="https://ichillow.itch.io/powerdrill">Give it a try!</a></p>
+<p align="center"> My Portfolio : An interactive showcase built with Godot. </p>
 
 ###
 
