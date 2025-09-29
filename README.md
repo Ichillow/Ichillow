@@ -22,7 +22,7 @@
 ###
 
 <p align="center">I make video games. Check them out <a href="https://ichillow.itch.io"><b><u>here</u></b></a>.</p>
-
+<p align="center">Developer for <a href="https://github.com/Capitalyx"><b><u>Capitalyx</u></b></a>.</p>
 
 ###
 
