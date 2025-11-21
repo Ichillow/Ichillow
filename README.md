@@ -33,6 +33,10 @@
 
 <p align="center"> PowerDrill : A little game made fot the Kenney game jam 2025. <a href="https://ichillow.itch.io/powerdrill">Give it a try!</a></p>
 <p align="center"> My Portfolio : An interactive showcase built with Godot. </p>
+<div align="center">
+<a href="https://wakatime.com/@07e31978-556d-439c-b78b-2c9785f0482d"><img src="https://wakatime.com/badge/user/07e31978-556d-439c-b78b-2c9785f0482d.svg" alt="Total time coded since Oct 8 2024" /></a>
+</div>
+
 
 ###
 
